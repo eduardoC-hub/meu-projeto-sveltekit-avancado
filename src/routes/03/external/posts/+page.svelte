@@ -7,7 +7,7 @@
         goto(`/03/external/posts/${postId}`);
       }
     }
-  </script>
+</script>
   
   <h1>Buscar Postagem</h1>
   

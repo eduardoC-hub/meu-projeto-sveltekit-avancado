@@ -22,17 +22,20 @@
 				</li>
 
 				<li class="nav-item">
-					<a class="nav-link active" href="/03/external/users">Cap 03a</a>
+					<a class="nav-link active" href="/03/external/users">Cap 03users</a>
 				</li>
 					
 				<li class="nav-item">
-					<a class="nav-link active" href="/03/external/posts">Cap 03b</a>
+					<a class="nav-link active" href="/03/external/posts">Cap 03posts</a>
 				</li>
 			
 					
 				
 				<li class="nav-item">
-					<a class="nav-link active" href="/03/pokemon">Cap 03c</a>
+					<a class="nav-link active" href="/03/pokemon">Cap 03poki</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link active" href="/03/dummy/users">Cap 03dummy</a>
 				</li>
 			</ul>
 		</div>

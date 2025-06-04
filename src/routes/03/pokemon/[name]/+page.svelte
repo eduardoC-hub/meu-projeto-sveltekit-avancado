@@ -1,6 +1,6 @@
 
 <script>
-    export let data;
+    let { data } = $props();
   </script>
   
   <div class="card mx-auto" style="max-width: 600px;">
