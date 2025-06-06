@@ -3,6 +3,7 @@
 </script>
 
 <h1>{data.user.firstName} {data.user.lastName}</h1>
+<p><img src={data.user.image} alt=""/></p>
 <p><strong>Username:</strong> {data.user.username}</p>
 <p><strong>Email:</strong> {data.user.email}</p>
 <p><strong>Telefone:</strong> {data.user.phone}</p>

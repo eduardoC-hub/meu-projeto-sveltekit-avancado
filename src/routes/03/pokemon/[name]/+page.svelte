@@ -9,8 +9,8 @@
     <div class="card-body">
       <h2 class="card-title text-capitalize">{data.pokemon.name} (#{data.pokemon.id})</h2>
   
-      <p><strong>Altura:</strong> {data.pokemon.height / 10} m</p>
-      <p><strong>Peso:</strong> {data.pokemon.weight / 10} kg</p>
+      <p><strong>Altura:</strong> {data.pokemon.height } m</p>
+      <p><strong>Peso:</strong> {data.pokemon.weight } kg</p>
   
       <p><strong>Tipos:</strong>
         {#each data.pokemon.types as type, i}
