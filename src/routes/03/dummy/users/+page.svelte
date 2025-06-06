@@ -5,7 +5,7 @@ let {data} = $props();
 <h1>Lista de Usuários</h1>
 <form>
     <input name="genero" type="text" placeholder="digite algum genero"/>
-    <input name="idade" type="number" placeholder="digite sua idade"/>
+    
     <button>Filtrar</button>
 </form>
 <ul>
