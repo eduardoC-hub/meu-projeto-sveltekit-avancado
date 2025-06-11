@@ -37,6 +37,20 @@
 				<li class="nav-item">
 					<a class="nav-link active" href="/03/dummy/users">Cap 03dummy</a>
 				</li>
+
+				<li class="nav-item">
+					<a class="nav-link active" href="/06/get">Cap 06get</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link active" href="/06/form">Cap 06form</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link active" href="/06/post">Cap 06post</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link active" href="/06/cadastro-usuario">Cap 06cu</a>
+				</li>
+				
 			</ul>
 		</div>
 	</div>
