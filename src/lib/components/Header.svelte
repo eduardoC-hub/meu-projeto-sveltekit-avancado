@@ -50,6 +50,9 @@
 				<li class="nav-item">
 					<a class="nav-link active" href="/06/cadastro-usuario">Cap 06cu</a>
 				</li>
+				<li class="nav-item">
+					<a class="nav-link active" href="/07/irmandade">Cap 07irm</a>
+				</li>
 				
 			</ul>
 		</div>
